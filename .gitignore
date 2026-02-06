@@ -1,0 +1,18 @@
+# Logs
+logs/
+*.log
+
+# Configurações sensíveis
+*.env
+config.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporários
+tmp/
+
+# Backup
+*.bck
+*.bak
